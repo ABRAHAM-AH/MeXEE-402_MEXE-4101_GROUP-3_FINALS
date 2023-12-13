@@ -120,7 +120,7 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/6582c378-bafd-45d7-aa5c-f07dc5beae4b.png" width="800" height="600">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/1e3ef5e3-43e2-4352-8c38-460dca63ae23.png" width="500" height="500">
 </div>
 
 <div align="center">
