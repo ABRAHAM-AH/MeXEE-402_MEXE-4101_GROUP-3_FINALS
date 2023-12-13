@@ -111,23 +111,23 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3a317468-6e9c-40bb-9106-d04783f70b6c.png" width="800" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3a317468-6e9c-40bb-9106-d04783f70b6c.png" width="900" height="600">
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/db7ae171-bcd2-4fc3-85e2-f101a29b69b2.png" width="800" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/db7ae171-bcd2-4fc3-85e2-f101a29b69b2.png" width="900" height="600">
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/ef8f8901-61fb-413e-8323-9ee45399d44e.png" width="800" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/ef8f8901-61fb-413e-8323-9ee45399d44e.png" width="900" height="600">
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/e9b99401-02b3-4ff1-bfd3-6ad84b18a251.png" width="800" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/e9b99401-02b3-4ff1-bfd3-6ad84b18a251.png" width="900" height="600">
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/28639c1f-5e63-496e-826c-4c01cdeb6bba.png" width="800" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/28639c1f-5e63-496e-826c-4c01cdeb6bba.png" width="900" height="600">
 </div>
 # Unknown Images
 
