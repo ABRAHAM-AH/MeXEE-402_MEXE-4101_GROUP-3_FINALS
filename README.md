@@ -112,6 +112,10 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 <div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3a317468-6e9c-40bb-9106-d04783f70b6c.png" width="800" height="500">
+</div>
+
+<div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/4215d911-ac8d-4eee-af60-dea9c5fa6b25.jpg" width="500" height="700">
 </div>
 
