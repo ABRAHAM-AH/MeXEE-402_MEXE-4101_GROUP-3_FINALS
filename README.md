@@ -128,9 +128,16 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 # Unknown Images
+
+### Image 1
+An analysis of the image “Image 1.png” using an advanced face recognition algorithm revealed faces that are not recognized.
+
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/935dc334-e013-43f1-ace2-52f3988778e4.png" width="500" height="500">
 </div>
+
+### Image 2
+An analysis of the image “Image 2.jpg” using an advanced face recognition algorithm revealed faces that are not recognized.
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/41349421-4894-4a32-a58c-47689bb77bae.jpg" width="500" height="500">
