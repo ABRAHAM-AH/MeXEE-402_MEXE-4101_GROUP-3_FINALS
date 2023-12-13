@@ -105,3 +105,16 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 ```
 cv2_imshow(unknown_image_to_draw)
 ```
+
+# Known Images
+![Dr  Tirso Ronquillo](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/7ae4049f-5246-4bfd-9df7-7975976c85ac)
+
+![Angelo Jimenez](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/4215d911-ac8d-4eee-af60-dea9c5fa6b25)
+
+![Br  Bernard Oca](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/e184f65b-b98c-4098-8265-2e37ab3a8e71)
+
+![Dr  Dodjie Maestrecampo](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/6582c378-bafd-45d7-aa5c-f07dc5beae4b)
+
+![Fr  Roberto Yap](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/03a1ee11-ba78-4136-be91-083d73f78fb8)
+
+# Unknown Images
