@@ -107,14 +107,24 @@ cv2_imshow(unknown_image_to_draw)
 ```
 
 # Known Images
-![Dr  Tirso Ronquillo](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/7ae4049f-5246-4bfd-9df7-7975976c85ac)
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/7ae4049f-5246-4bfd-9df7-7975976c85ac.png" width="500" height="500">
+</div>
 
-![Angelo Jimenez](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/4215d911-ac8d-4eee-af60-dea9c5fa6b25)
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/4215d911-ac8d-4eee-af60-dea9c5fa6b25.jpg" width="500" height="700">
+</div>
 
-![Br  Bernard Oca](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/e184f65b-b98c-4098-8265-2e37ab3a8e71)
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/e184f65b-b98c-4098-8265-2e37ab3a8e71.jpg" width="500" height="600">
+</div>
 
-![Dr  Dodjie Maestrecampo](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/6582c378-bafd-45d7-aa5c-f07dc5beae4b)
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/6582c378-bafd-45d7-aa5c-f07dc5beae4b.png" width="800" height="600">
+</div>
 
-![Fr  Roberto Yap](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/03a1ee11-ba78-4136-be91-083d73f78fb8)
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/03a1ee11-ba78-4136-be91-083d73f78fb8.jpg" width="350" height="500">
+</div>
 
 # Unknown Images
