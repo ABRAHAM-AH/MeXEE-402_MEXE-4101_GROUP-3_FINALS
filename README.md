@@ -221,3 +221,14 @@ cv2_imshow(unknown_image_to_draw)
 👩‍💻 Nikkita Andrea Roxas
 
 ## 𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗘𝗦
+https://batstate-u.edu.ph/board-of-regents/
+
+https://batstate-u.edu.ph/office-of-the-president/
+
+https://up.edu.ph/office-of-the-university-president/#Roles%20and%20Powers%20of%20The%20University%20President
+
+https://www.dlsu.edu.ph/offices/president/about-the-president/
+
+https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo
+
+https://www.ateneo.edu/president/profile
