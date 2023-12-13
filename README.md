@@ -150,7 +150,7 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 # <p align="center">IMAGE 2</p>
-<p align="center"><i>Image 2.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 2.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/41349421-4894-4a32-a58c-47689bb77bae.jpg" width="500" height="500">
@@ -164,49 +164,49 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 # <p align="center">IMAGE 4</p>
-<p align="center"><i>Image 4.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 4.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/beb5527a-b947-49eb-abb1-edb4ce2620d5.jpg" width="650" height="500">
 </div>
 
 # <p align="center">IMAGE 5</p>
-<p align="center"><i>Image 5.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 5.jpeg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/195c8c2a-0888-4cb8-9919-4bb9086543df.jpeg" width="500" height="500">
 </div>
 
 # <p align="center">IMAGE 6</p>
-<p align="center"><i>Image 6.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 6.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/4e49f46e-c9a8-42e8-84d1-f6c9cb158095.jpg" width="500" height="500">
 </div>
 
 # <p align="center">IMAGE 7</p>
-<p align="center"><i>Image 7.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 7.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/83cb97e6-3618-4f05-9486-26b7e9a010a9.jpg" width="500" height="500">
 </div>
 
 # <p align="center">IMAGE 8</p>
-<p align="center"><i>Image 8.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 8.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/fd81fcce-c323-4242-8ac8-35e91f92b64a.jpg" width="500" height="500">
 </div>
 
 # <p align="center">IMAGE 9</p>
-<p align="center"><i>Image 9.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 9.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/7823d5a8-67b3-45cc-82d9-2b6d042caf32.jpg" width="500" height="500">
 </div>
 
 # <p align="center">IMAGE 10</p>
-<p align="center"><i>Image 10.png analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
+<p align="center"><i>Image 10.jpg analysis with an advanced face recognition algorithm detected unrecognized faces.</i></p>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3386b7e4-5e28-4c8a-8c97-33f310069c03.jpg" width="600" height="500">
