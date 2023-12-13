@@ -221,38 +221,21 @@ cv2_imshow(unknown_image_to_draw)
 👩‍💻 Nikkita Andrea Roxas
 
 ## 𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗘𝗦
-https://batstate-u.edu.ph/board-of-regents/
-
-https://batstate-u.edu.ph/office-of-the-president/
-
-https://up.edu.ph/office-of-the-university-president/#Roles%20and%20Powers%20of%20The%20University%20President
-
-https://www.dlsu.edu.ph/offices/president/about-the-president/
-
-https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo
-
-https://www.ateneo.edu/president/profile
-
-https://en.wikipedia.org/wiki/Angelo_Jimenez
-
-https://www.delasalle.ph/news/2013/07/29/2013-7-29-br-bernard-s-oca-fsc-the-eighth-president-of-dlsz
-
-https://gsb.ateneo.edu/about/fr-roberto-c-yap-s-j/
-
-https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo
-
-https://www.dlsu.edu.ph/offices/president/about-the-president/
-
-https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo
-
-https://www.ateneo.edu/president/profile
-
-https://mb.com.ph/2022/7/4/we-are-not-ashamed-briones-formally-turns-over-deped-leadership-to-vp-sara
-
-https://www.rctq.ph/?p=1090
-
-https://www.seameo-innotech.org/education-transformation-with-usaid/
-
-https://www.facebook.com/photo.php?fbid=707799014707981&set=pb.100064336673421.-2207520000&type=3
-
-https://www.facebook.com/photo.php?fbid=707796888041527&set=pb.100064336673421.-2207520000&type=3
+- [Batangas State University Board of Regents](https://batstate-u.edu.ph/board-of-regents/)
+- [Batangas State University Office of the President](https://batstate-u.edu.ph/office-of-the-president/)
+- [University of the Philippines Office of the University President](https://up.edu.ph/office-of-the-university-president/#Roles%20and%20Powers%20of%20The%20University%20President)
+- [De La Salle University Office of the President](https://www.dlsu.edu.ph/offices/president/about-the-president/)
+- [Mapúa University President and CEO](https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo)
+- [Ateneo de Manila University President Profile](https://www.ateneo.edu/president/profile)
+- [Angelo Jimenez - Wikipedia](https://en.wikipedia.org/wiki/Angelo_Jimenez)
+- [De La Salle Santiago Zobel School President](https://www.delasalle.ph/news/2013/07/29/2013-7-29-br-bernard-s-oca-fsc-the-eighth-president-of-dlsz)
+- [Ateneo Graduate School of Business President](https://gsb.ateneo.edu/about/fr-roberto-c-yap-s-j/)
+- [Mapúa University President and CEO](https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo)
+- [De La Salle University Office of the President](https://www.dlsu.edu.ph/offices/president/about-the-president/)
+- [Mapúa University President and CEO](https://www.mapua.edu.ph/news/dr-dodjie-maestrecampo-is-mapuas-new-president-and-ceo)
+- [Ateneo de Manila University President Profile](https://www.ateneo.edu/president/profile)
+- [Education Secretary Leonor Briones turns over DepEd leadership to VP Sara](https://mb.com.ph/2022/7/4/we-are-not-ashamed-briones-formally-turns-over-deped-leadership-to-vp-sara)
+- [RCTQ - Research Center for Teacher Quality](https://www.rctq.ph/?p=1090)
+- [SEAMEO INNOTECH - Education Transformation with USAID](https://www.seameo-innotech.org/education-transformation-with-usaid/)
+- [Photo on Facebook](https://www.facebook.com/photo.php?fbid=707799014707981&set=pb.100064336673421.-2207520000&type=3)
+- [Another Photo on Facebook](https://www.facebook.com/photo.php?fbid=707796888041527&set=pb.100064336673421.-2207520000&type=3)
