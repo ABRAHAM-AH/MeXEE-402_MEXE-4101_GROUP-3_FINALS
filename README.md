@@ -1,5 +1,9 @@
 # 𝗠𝗲𝗫𝗘𝗘-𝟰𝟬𝟮_𝗠𝗘𝗫𝗘-𝟰𝟭𝟬𝟭_𝗚𝗥𝗢𝗨𝗣-𝟯_𝗙𝗜𝗡𝗔𝗟𝗦
 
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/12480596-ed60-41a0-89c0-265c1e453bc4.png" width="1000" height="300">
+</div>
+
 ### Clone the GitHub repository
 ```
 !git clone https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS.git
@@ -108,6 +112,10 @@ cv2_imshow(unknown_image_to_draw)
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/112e269f-c576-4522-a859-83fd9fc130ce.png" width="1000" height="300">
+</div>
+
+<div align="center">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/b660e460-658b-466a-8b70-3cf265e2b680.png" width="1000" height="300">
 </div>
 
 <div align="center">
