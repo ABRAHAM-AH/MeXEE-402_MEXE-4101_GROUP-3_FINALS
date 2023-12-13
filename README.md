@@ -171,9 +171,15 @@ An analysis of the image “Image 6.jpg” using an advanced face recognition al
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/4e49f46e-c9a8-42e8-84d1-f6c9cb158095.jpg" width="500" height="500">
 </div>
 
+### Image 7
+An analysis of the image “Image 7.jpg” using an advanced face recognition algorithm revealed faces that are not recognized.
+
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/83cb97e6-3618-4f05-9486-26b7e9a010a9.jpg" width="500" height="500">
 </div>
+
+### Image 8
+An analysis of the image “Image 8.jpg” using an advanced face recognition algorithm revealed faces that are not recognized.
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/fd81fcce-c323-4242-8ac8-35e91f92b64a.jpg" width="500" height="500">
