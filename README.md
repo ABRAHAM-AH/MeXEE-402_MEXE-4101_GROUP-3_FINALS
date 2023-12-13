@@ -198,3 +198,7 @@ cv2_imshow(unknown_image_to_draw)
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3386b7e4-5e28-4c8a-8c97-33f310069c03.jpg" width="600" height="500">
 </div>
 
+## 𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑𝐒 🏅
+👩‍💻 Angela Heizel Abraham
+👩‍💻 Jhodielen Marabi
+👩‍💻 Nikkita Andrea Roxas
