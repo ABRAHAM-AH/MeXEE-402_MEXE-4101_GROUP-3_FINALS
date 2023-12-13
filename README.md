@@ -123,9 +123,8 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/01aa238d-7532-46b5-8435-fe5901664be4.png" width="800" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/28639c1f-5e63-496e-826c-4c01cdeb6bba.png" width="800" height="500">
 </div>
-
 # Unknown Images
 
 ### Image 1
@@ -199,6 +198,9 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 ## 𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑𝐒 🏅
+
 👩‍💻 Angela Heizel Abraham
+
 👩‍💻 Jhodielen Marabi
+
 👩‍💻 Nikkita Andrea Roxas
