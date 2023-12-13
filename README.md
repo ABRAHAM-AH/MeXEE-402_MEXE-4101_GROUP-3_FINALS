@@ -56,16 +56,16 @@ known_face_names = [
                     "Fr.Roberto Yap"
 ]
 ```
-### File name of the unknown image
+### File name of the image
 ```
 file_name = "file name of the image"
 ```
-### Load the unknown image for face recognition
+### Load the image for face recognition
 ```
 unknown_image = face_recognition.load_image_file(file_name)
 unknown_image_to_draw = cv2.imread(file_name)
 ```
-### Detect face locations and encodings in the unknown image
+### Detect face locations and encodings in the image
 ```
 face_locations = face_recognition.face_locations(unknown_image)
 face_encodings = face_recognition.face_encodings(unknown_image, face_locations)
