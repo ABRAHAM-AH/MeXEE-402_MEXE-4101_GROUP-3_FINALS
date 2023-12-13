@@ -129,6 +129,7 @@ cv2_imshow(unknown_image_to_draw)
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/28639c1f-5e63-496e-826c-4c01cdeb6bba.png" width="900" height="600">
 </div>
+
 # Unknown Images
 
 ### Image 1
