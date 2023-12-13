@@ -143,7 +143,7 @@ cv2_imshow(unknown_image_to_draw)
 </div>
 
 # <p align="center">IMAGE 1</p>
-<sub>An analysis of the image "Image 1.png" using an advanced face recognition algorithm revealed faces that are not recognized.</sub>
+<small>An analysis of the image "Image 1.png" using an advanced face recognition algorithm revealed faces that are not recognized.</small>
 
 <div align="center">
   <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/935dc334-e013-43f1-ace2-52f3988778e4.png" width="600" height="500">
