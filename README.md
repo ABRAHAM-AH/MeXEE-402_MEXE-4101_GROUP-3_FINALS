@@ -133,7 +133,7 @@ cv2_imshow(unknown_image_to_draw)
 *An analysis of the image “Image 1.png” using an advanced face recognition algorithm revealed faces that are not recognized.*
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/935dc334-e013-43f1-ace2-52f3988778e4.png" width="500" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/935dc334-e013-43f1-ace2-52f3988778e4.png" width="600" height="500">
 </div>
 
 ### Image 2
@@ -147,14 +147,14 @@ cv2_imshow(unknown_image_to_draw)
 *An analysis of the image “Image 3.png” using an advanced face recognition algorithm revealed faces that are not recognized.*
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/33d450c6-bc5f-4478-b97a-a4e7b25b6cc9.png" width="400" height="600">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/33d450c6-bc5f-4478-b97a-a4e7b25b6cc9.png" width="450" height="600">
 </div>
 
 ### Image 4
 *An analysis of the image “Image 4.jpg” using an advanced face recognition algorithm revealed faces that are not recognized.*
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/beb5527a-b947-49eb-abb1-edb4ce2620d5.jpg" width="600" height="500">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/beb5527a-b947-49eb-abb1-edb4ce2620d5.jpg" width="650" height="500">
 </div>
 
 ### Image 5
