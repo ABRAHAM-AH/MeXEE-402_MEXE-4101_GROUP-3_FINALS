@@ -219,7 +219,7 @@ cv2_imshow(unknown_image_to_draw)
 
 👩‍💻 Nikkita Andrea Roxas
 
-## 𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗘𝗦
+## 𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗘𝗦 📑
 - [Batangas State University Board of Regents](https://batstate-u.edu.ph/board-of-regents/)
 - [Batangas State University Office of the President](https://batstate-u.edu.ph/office-of-the-president/)
 - [University of the Philippines Office of the University President](https://up.edu.ph/office-of-the-university-president/#Roles%20and%20Powers%20of%20The%20University%20President)
