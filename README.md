@@ -107,11 +107,11 @@ cv2_imshow(unknown_image_to_draw)
 ```
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/112e269f-c576-4522-a859-83fd9fc130ce.png" width=1200" height="300">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143602067/112e269f-c576-4522-a859-83fd9fc130ce.png" width="800" height="400">
 </div>
 
 <div align="center">
-  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3a317468-6e9c-40bb-9106-d04783f70b6c.png" width="900" height="600">
+  <img src="https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_FINALS/assets/143601880/3a317468-6e9c-40bb-9106-d04783f70b6c.png" width="900" height="400">
 </div>
 
 <div align="center">
