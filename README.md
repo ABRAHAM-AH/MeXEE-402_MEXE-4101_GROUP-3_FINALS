@@ -1,4 +1,4 @@
-# MeXEE-402_MEXE-4101_GROUP-3_FINALS
+# 𝗠𝗲𝗫𝗘𝗘-𝟰𝟬𝟮_𝗠𝗘𝗫𝗘-𝟰𝟭𝟬𝟭_𝗚𝗥𝗢𝗨𝗣-𝟯_𝗙𝗜𝗡𝗔𝗟𝗦
 
 ### Clone the GitHub repository
 ```
@@ -208,3 +208,5 @@ cv2_imshow(unknown_image_to_draw)
 👩‍💻 Jhodielen Marabi
 
 👩‍💻 Nikkita Andrea Roxas
+
+## 𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗘𝗦
