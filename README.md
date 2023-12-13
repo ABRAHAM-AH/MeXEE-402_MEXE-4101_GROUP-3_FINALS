@@ -94,7 +94,7 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 ```
 ### Draw rectangle and display the name on the image
  ```
-      cv2.rectangle(unknown_image_to_draw, (left, top), (right, bottom),(0,0,255),3)
+      cv2.rectangle(unknown_image_to_draw, (left, top), (right, bottom),(0,255,0),3)
       cv2.putText(unknown_image_to_draw,name, (left, top-20), cv2.FONT_HERSHEY_SIMPLEX,1,(255,255,255),2, cv2.LINE_AA)
 ```
 ### Display the annotated image with face recognition results
